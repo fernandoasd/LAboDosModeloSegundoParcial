@@ -1,0 +1,17 @@
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\TestUnitario\obj\Debug\TestUnitario.csproj.AssemblyReference.cache
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\TestUnitario\obj\Debug\TestUnitario.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\TestUnitario\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\TestUnitario\bin\Debug\TestUnitario.dll
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\TestUnitario\bin\Debug\TestUnitario.pdb
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\TestUnitario\bin\Debug\Entidades.dll
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\TestUnitario\bin\Debug\Entidades.pdb
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\TestUnitario\obj\Debug\TestUnit.5CA24895.Up2Date
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\TestUnitario\obj\Debug\TestUnitario.dll
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\TestUnitario\obj\Debug\TestUnitario.pdb

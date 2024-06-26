@@ -1,0 +1,26 @@
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\SP\obj\Debug\Fernando.Malinowski.SP.csproj.AssemblyReference.cache
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\SP\obj\Debug\SP.ModeloSegundoParcial.resources
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\SP\obj\Debug\SP.Properties.Resources.resources
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\SP\obj\Debug\Fernando.Malinowski.SP.csproj.GenerateResource.cache
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\SP\obj\Debug\Fernando.Malinowski.SP.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\SP\bin\Debug\SP.exe.config
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\SP\bin\Debug\SP.exe
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\SP\bin\Debug\SP.pdb
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\SP\bin\Debug\Entidades.dll
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\SP\bin\Debug\Entidades.pdb
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\SP\obj\Debug\Fernando.BCA9C201.Up2Date
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\SP\obj\Debug\SP.exe
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\SP\obj\Debug\SP.pdb
+C:\Users\Fernando\Documents\UTN 2024\Progra\EJERCICIO INTEGRADOR\Mi solucion-FaltaTestUnitarios\ModeloSegundoParcialLabII\SP\bin\Debug\SP.exe.config
+C:\Users\Fernando\Documents\UTN 2024\Progra\EJERCICIO INTEGRADOR\Mi solucion-FaltaTestUnitarios\ModeloSegundoParcialLabII\SP\bin\Debug\SP.exe
+C:\Users\Fernando\Documents\UTN 2024\Progra\EJERCICIO INTEGRADOR\Mi solucion-FaltaTestUnitarios\ModeloSegundoParcialLabII\SP\bin\Debug\SP.pdb
+C:\Users\Fernando\Documents\UTN 2024\Progra\EJERCICIO INTEGRADOR\Mi solucion-FaltaTestUnitarios\ModeloSegundoParcialLabII\SP\bin\Debug\Entidades.dll
+C:\Users\Fernando\Documents\UTN 2024\Progra\EJERCICIO INTEGRADOR\Mi solucion-FaltaTestUnitarios\ModeloSegundoParcialLabII\SP\bin\Debug\Entidades.pdb
+C:\Users\Fernando\Documents\UTN 2024\Progra\EJERCICIO INTEGRADOR\Mi solucion-FaltaTestUnitarios\ModeloSegundoParcialLabII\SP\obj\Debug\Fernando.Malinowski.SP.csproj.AssemblyReference.cache
+C:\Users\Fernando\Documents\UTN 2024\Progra\EJERCICIO INTEGRADOR\Mi solucion-FaltaTestUnitarios\ModeloSegundoParcialLabII\SP\obj\Debug\SP.ModeloSegundoParcial.resources
+C:\Users\Fernando\Documents\UTN 2024\Progra\EJERCICIO INTEGRADOR\Mi solucion-FaltaTestUnitarios\ModeloSegundoParcialLabII\SP\obj\Debug\SP.Properties.Resources.resources
+C:\Users\Fernando\Documents\UTN 2024\Progra\EJERCICIO INTEGRADOR\Mi solucion-FaltaTestUnitarios\ModeloSegundoParcialLabII\SP\obj\Debug\Fernando.Malinowski.SP.csproj.GenerateResource.cache
+C:\Users\Fernando\Documents\UTN 2024\Progra\EJERCICIO INTEGRADOR\Mi solucion-FaltaTestUnitarios\ModeloSegundoParcialLabII\SP\obj\Debug\Fernando.Malinowski.SP.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\UTN 2024\Progra\EJERCICIO INTEGRADOR\Mi solucion-FaltaTestUnitarios\ModeloSegundoParcialLabII\SP\obj\Debug\Fernando.BCA9C201.Up2Date
+C:\Users\Fernando\Documents\UTN 2024\Progra\EJERCICIO INTEGRADOR\Mi solucion-FaltaTestUnitarios\ModeloSegundoParcialLabII\SP\obj\Debug\SP.exe
+C:\Users\Fernando\Documents\UTN 2024\Progra\EJERCICIO INTEGRADOR\Mi solucion-FaltaTestUnitarios\ModeloSegundoParcialLabII\SP\obj\Debug\SP.pdb

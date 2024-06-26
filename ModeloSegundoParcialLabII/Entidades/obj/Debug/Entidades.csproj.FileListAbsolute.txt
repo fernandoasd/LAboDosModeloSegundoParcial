@@ -1,0 +1,12 @@
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\Entidades\bin\Debug\Entidades.dll
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\Entidades\obj\Debug\Entidades.dll
+C:\Users\Fernando\Documents\UTN 2024\Progra\Progra_1_cuatrimestre_2024\Malinowski.Fernando.M2P\ModeloSegundoParcialLabII\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Fernando\Documents\UTN 2024\Progra\EJERCICIO INTEGRADOR\Mi solucion-FaltaTestUnitarios\ModeloSegundoParcialLabII\Entidades\bin\Debug\Entidades.dll
+C:\Users\Fernando\Documents\UTN 2024\Progra\EJERCICIO INTEGRADOR\Mi solucion-FaltaTestUnitarios\ModeloSegundoParcialLabII\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Fernando\Documents\UTN 2024\Progra\EJERCICIO INTEGRADOR\Mi solucion-FaltaTestUnitarios\ModeloSegundoParcialLabII\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Fernando\Documents\UTN 2024\Progra\EJERCICIO INTEGRADOR\Mi solucion-FaltaTestUnitarios\ModeloSegundoParcialLabII\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\UTN 2024\Progra\EJERCICIO INTEGRADOR\Mi solucion-FaltaTestUnitarios\ModeloSegundoParcialLabII\Entidades\obj\Debug\Entidades.dll
+C:\Users\Fernando\Documents\UTN 2024\Progra\EJERCICIO INTEGRADOR\Mi solucion-FaltaTestUnitarios\ModeloSegundoParcialLabII\Entidades\obj\Debug\Entidades.pdb
