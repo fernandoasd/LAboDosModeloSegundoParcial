@@ -43,7 +43,7 @@
             this.btnPunto6.Name = "btnPunto6";
             this.btnPunto6.Size = new System.Drawing.Size(260, 23);
             this.btnPunto6.TabIndex = 23;
-            this.btnPunto6.Text = "PUNTO 6";
+            this.btnPunto6.Text = "PUNTO 6 - Select BBDD";
             this.btnPunto6.UseVisualStyleBackColor = true;
             this.btnPunto6.Click += new System.EventHandler(this.btnPunto6_Click);
             // 
@@ -53,7 +53,7 @@
             this.btnPunto7.Name = "btnPunto7";
             this.btnPunto7.Size = new System.Drawing.Size(260, 23);
             this.btnPunto7.TabIndex = 21;
-            this.btnPunto7.Text = "PUNTO 7";
+            this.btnPunto7.Text = "PUNTO 7 Insert BBDD";
             this.btnPunto7.UseVisualStyleBackColor = true;
             this.btnPunto7.Click += new System.EventHandler(this.btnPunto7_Click);
             // 
@@ -63,7 +63,7 @@
             this.btnPunto5.Name = "btnPunto5";
             this.btnPunto5.Size = new System.Drawing.Size(260, 23);
             this.btnPunto5.TabIndex = 20;
-            this.btnPunto5.Text = "PUNTO 5";
+            this.btnPunto5.Text = "PUNTO 5 - precio total y .txt";
             this.btnPunto5.UseVisualStyleBackColor = true;
             this.btnPunto5.Click += new System.EventHandler(this.btnPunto5_Click);
             // 
@@ -73,7 +73,7 @@
             this.btnPunto4.Name = "btnPunto4";
             this.btnPunto4.Size = new System.Drawing.Size(260, 23);
             this.btnPunto4.TabIndex = 19;
-            this.btnPunto4.Text = "PUNTO 4";
+            this.btnPunto4.Text = "PUNTO 4 - cajon += manzana -> exception";
             this.btnPunto4.UseVisualStyleBackColor = true;
             this.btnPunto4.Click += new System.EventHandler(this.btnPunto4_Click);
             // 
@@ -83,7 +83,7 @@
             this.btnPunto3.Name = "btnPunto3";
             this.btnPunto3.Size = new System.Drawing.Size(260, 23);
             this.btnPunto3.TabIndex = 18;
-            this.btnPunto3.Text = "PUNTO 3";
+            this.btnPunto3.Text = "PUNTO 3 - serializar manzana y cajon";
             this.btnPunto3.UseVisualStyleBackColor = true;
             this.btnPunto3.Click += new System.EventHandler(this.btnPunto3_Click);
             // 
@@ -93,7 +93,7 @@
             this.btnPunto2.Name = "btnPunto2";
             this.btnPunto2.Size = new System.Drawing.Size(260, 23);
             this.btnPunto2.TabIndex = 17;
-            this.btnPunto2.Text = "PUNTO 2";
+            this.btnPunto2.Text = "PUNTO 2 - Mostrar info cajones";
             this.btnPunto2.UseVisualStyleBackColor = true;
             this.btnPunto2.Click += new System.EventHandler(this.btnPunto2_Click);
             // 
@@ -103,7 +103,7 @@
             this.btnPunto1.Name = "btnPunto1";
             this.btnPunto1.Size = new System.Drawing.Size(260, 23);
             this.btnPunto1.TabIndex = 16;
-            this.btnPunto1.Text = "PUNTO 1";
+            this.btnPunto1.Text = "PUNTO 1 - Inicializar los atributos";
             this.btnPunto1.UseVisualStyleBackColor = true;
             this.btnPunto1.Click += new System.EventHandler(this.btnPunto1_Click);
             // 

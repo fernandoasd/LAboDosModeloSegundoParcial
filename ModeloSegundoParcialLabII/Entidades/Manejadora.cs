@@ -9,33 +9,33 @@ namespace Entidades
 {
     public class ManejadoraEventos
     {
-        public void ImprimirArchivoTexto(Object obj)
+        public void ImprimirArchivoTexto(object obj)
         {
-            DateTime date = new DateTime();
+            DateTime fechaActual = DateTime.Now;
 
             string pathDesktop = Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory);
-            string nombreCarpeta = "SerializacionCajonPunto5";
-            string pathDirectorio = Path.Combine(pathDesktop, nombreCarpeta);
-            Directory.CreateDirectory(pathDirectorio);
+            //string nombreCarpeta = "SerializacionPunto5";
+            //string pathDirectorio = Path.Combine(pathDesktop, nombreCarpeta);
+            //Directory.CreateDirectory(pathDirectorio);
             string nombreArchivo = "Serializacion.txt";
-            string path = Path.Combine(pathDirectorio, nombreArchivo);
-
+            string path = Path.Combine(pathDesktop, nombreArchivo);
 
             try
             {
                 //El using abre y cierra solo el sw (el segundo parametro true -> agregar nuevas lineas)
                 //                                  (el segundo parametro false -> sobreescribe archivo)
-                using (StreamWriter streamWriter = new StreamWriter(path, true))
+                using (StreamWriter streamWriter = new StreamWriter(path, false))
                 {
-                    streamWriter.WriteLine("HOlA");
+                    //streamWriter.WriteLine($"{fechaActual.Hour}:{fechaActual.Minute}:{fechaActual.Second}");
+                    streamWriter.WriteLine("fecha {0:yy/mm/dd h:mm:ss}", fechaActual);
+
+                    streamWriter.WriteLine($"Precio total del cajón: ${obj:#,###.00}");
                 }
             }
             catch (Exception)
             {
                 throw;
             }
-            
-
         }
     }
 }

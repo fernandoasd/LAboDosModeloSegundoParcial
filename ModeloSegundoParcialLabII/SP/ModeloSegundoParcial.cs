@@ -94,15 +94,13 @@ namespace SP
         {
             // AGREGAR
 
-            string directorioPunto3 = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), "./Punto3");
-            Directory.CreateDirectory(directorioPunto3);
-            string pathFrutaSerializada = Path.Combine(directorioPunto3, "Manzana_Serializada_XML.xml");
+            string pathDesktop = Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory);
+            string pathManzana = Path.Combine(pathDesktop, "Manzana_Serializada_XML.xml");
 
             // Serealizacion implicita de manzana
-
             try
             {
-                if (_manzana.Xml(pathFrutaSerializada))
+                if (_manzana.Xml(pathManzana))
                 {
                     MessageBox.Show("Manzana serializada OK");
                 }
@@ -118,11 +116,10 @@ namespace SP
 
 
             // Deserealizacion explicita de manzana
-
             try
             {
                 IDeserializar manzanaExplicita = _manzana;
-                if (manzanaExplicita.Xml(pathFrutaSerializada, out Fruta fruta))
+                if (manzanaExplicita.Xml(pathManzana, out Fruta fruta))
                 {
                     MessageBox.Show("Manzana deserializada OK");
                     MessageBox.Show(fruta.ToString());
@@ -142,7 +139,7 @@ namespace SP
             // Serealizacion de cajon de manzanas
             try
             {
-                string pathCajonSerializada = Path.Combine(directorioPunto3, "Cajon_Manzanas_Serializado_XML.xml");
+                string pathCajonSerializada = Path.Combine(pathDesktop, "Cajon_Manzanero_Serializado_XML.xml");
                 if (c_manzanas.Xml(pathCajonSerializada))
                 {
                     MessageBox.Show("Cajon de Manzanas serializado OK");

@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D639FFCB-5334-4404-87E5-3F1FC2EC845C}|SP\\Fernando.Malinowski.SP.csproj|C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\sp\\modelosegundoparcial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E856970B-8AAD-4219-BF78-064E04ED68EC}|Entidades\\Entidades.csproj|C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\entidades\\cajon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E856970B-8AAD-4219-BF78-064E04ED68EC}|Entidades\\Entidades.csproj|solutionrelative:entidades\\cajon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D639FFCB-5334-4404-87E5-3F1FC2EC845C}|SP\\Fernando.Malinowski.SP.csproj|c:\\users\\fernando\\documents\\utn 2024\\progra\\ejercicio integrador\\mi solucion-faltatestunitarios\\modelosegundoparciallabii\\sp\\modelosegundoparcial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D639FFCB-5334-4404-87E5-3F1FC2EC845C}|SP\\Fernando.Malinowski.SP.csproj|solutionrelative:sp\\modelosegundoparcial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,7 +23,19 @@
       "RelativeMoniker": "D:0:0:{E856970B-8AAD-4219-BF78-064E04ED68EC}|Entidades\\Entidades.csproj|solutionrelative:entidades\\cajonllenoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E856970B-8AAD-4219-BF78-064E04ED68EC}|Entidades\\Entidades.csproj|c:\\users\\fernando\\documents\\utn 2024\\progra\\ejercicio integrador\\mi solucion-faltatestunitarios\\modelosegundoparciallabii\\entidades\\ideserializar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D639FFCB-5334-4404-87E5-3F1FC2EC845C}|SP\\Fernando.Malinowski.SP.csproj|C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\sp\\modelosegundoparcial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D639FFCB-5334-4404-87E5-3F1FC2EC845C}|SP\\Fernando.Malinowski.SP.csproj|solutionrelative:sp\\modelosegundoparcial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E856970B-8AAD-4219-BF78-064E04ED68EC}|Entidades\\Entidades.csproj|C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\entidades\\manzana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E856970B-8AAD-4219-BF78-064E04ED68EC}|Entidades\\Entidades.csproj|solutionrelative:entidades\\manzana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E856970B-8AAD-4219-BF78-064E04ED68EC}|Entidades\\Entidades.csproj|C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\entidades\\banana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E856970B-8AAD-4219-BF78-064E04ED68EC}|Entidades\\Entidades.csproj|solutionrelative:entidades\\banana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E856970B-8AAD-4219-BF78-064E04ED68EC}|Entidades\\Entidades.csproj|C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\entidades\\ideserializar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E856970B-8AAD-4219-BF78-064E04ED68EC}|Entidades\\Entidades.csproj|solutionrelative:entidades\\ideserializar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,16 +47,8 @@
       "RelativeMoniker": "D:0:0:{E856970B-8AAD-4219-BF78-064E04ED68EC}|Entidades\\Entidades.csproj|solutionrelative:entidades\\durazno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E856970B-8AAD-4219-BF78-064E04ED68EC}|Entidades\\Entidades.csproj|C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\entidades\\cajon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E856970B-8AAD-4219-BF78-064E04ED68EC}|Entidades\\Entidades.csproj|solutionrelative:entidades\\cajon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E856970B-8AAD-4219-BF78-064E04ED68EC}|Entidades\\Entidades.csproj|C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\entidades\\iserializar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E856970B-8AAD-4219-BF78-064E04ED68EC}|Entidades\\Entidades.csproj|solutionrelative:entidades\\iserializar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E856970B-8AAD-4219-BF78-064E04ED68EC}|Entidades\\Entidades.csproj|C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\entidades\\manzana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E856970B-8AAD-4219-BF78-064E04ED68EC}|Entidades\\Entidades.csproj|solutionrelative:entidades\\manzana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Fernando\\AppData\\Local\\Temp\\.vsdbgsrc\\dd26223068d47cb2c797296b836653c53720ea91b9e36c6a10852267e476d753\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -52,14 +60,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E856970B-8AAD-4219-BF78-064E04ED68EC}|Entidades\\Entidades.csproj|C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\entidades\\fruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E856970B-8AAD-4219-BF78-064E04ED68EC}|Entidades\\Entidades.csproj|solutionrelative:entidades\\fruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D639FFCB-5334-4404-87E5-3F1FC2EC845C}|SP\\Fernando.Malinowski.SP.csproj|C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\sp\\modelosegundoparcial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D639FFCB-5334-4404-87E5-3F1FC2EC845C}|SP\\Fernando.Malinowski.SP.csproj|solutionrelative:sp\\modelosegundoparcial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E856970B-8AAD-4219-BF78-064E04ED68EC}|Entidades\\Entidades.csproj|C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\entidades\\banana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E856970B-8AAD-4219-BF78-064E04ED68EC}|Entidades\\Entidades.csproj|solutionrelative:entidades\\banana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -69,7 +69,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -81,7 +81,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "Manejadora.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\Entidades\\Manejadora.cs",
+              "RelativeDocumentMoniker": "Entidades\\Manejadora.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\Entidades\\Manejadora.cs",
+              "RelativeToolTip": "Entidades\\Manejadora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:26:39.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\TestUnitario\\UnitTest1.cs",
               "RelativeDocumentMoniker": "TestUnitario\\UnitTest1.cs",
@@ -93,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Fernando\\AppData\\Local\\Temp\\.vsdbgsrc\\dd26223068d47cb2c797296b836653c53720ea91b9e36c6a10852267e476d753\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\dd26223068d47cb2c797296b836653c53720ea91b9e36c6a10852267e476d753\\Program.cs",
@@ -106,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\SP\\Program.cs",
               "RelativeDocumentMoniker": "SP\\Program.cs",
@@ -118,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "ModeloSegundoParcial.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\SP\\ModeloSegundoParcial.Designer.cs",
               "RelativeDocumentMoniker": "SP\\ModeloSegundoParcial.Designer.cs",
@@ -131,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Fruta.cs",
               "DocumentMoniker": "C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\Entidades\\Fruta.cs",
               "RelativeDocumentMoniker": "Entidades\\Fruta.cs",
@@ -143,20 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Manejadora.cs",
-              "DocumentMoniker": "C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\Entidades\\Manejadora.cs",
-              "RelativeDocumentMoniker": "Entidades\\Manejadora.cs",
-              "ToolTip": "C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\Entidades\\Manejadora.cs",
-              "RelativeToolTip": "Entidades\\Manejadora.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAwwB0AAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T03:26:39.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CajonLlenoException.cs",
               "DocumentMoniker": "C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\Entidades\\CajonLlenoException.cs",
               "RelativeDocumentMoniker": "Entidades\\CajonLlenoException.cs",
@@ -169,20 +169,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ModeloSegundoParcial.cs",
               "DocumentMoniker": "C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\SP\\ModeloSegundoParcial.cs",
               "RelativeDocumentMoniker": "SP\\ModeloSegundoParcial.cs",
               "ToolTip": "C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\SP\\ModeloSegundoParcial.cs",
               "RelativeToolTip": "SP\\ModeloSegundoParcial.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAiwKoAAAAxAAAA",
+              "ViewState": "AQIAALEAAAAAAAAAAAAAAHEAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-24T01:22:29.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ModeloSegundoParcial.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\SP\\ModeloSegundoParcial.cs",
               "RelativeDocumentMoniker": "SP\\ModeloSegundoParcial.cs",
@@ -194,19 +194,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Cajon.cs",
               "DocumentMoniker": "C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\Entidades\\Cajon.cs",
               "RelativeDocumentMoniker": "Entidades\\Cajon.cs",
               "ToolTip": "C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\Entidades\\Cajon.cs",
               "RelativeToolTip": "Entidades\\Cajon.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAAAJsAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T23:54:40.708Z"
+              "WhenOpened": "2024-06-24T23:54:40.708Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Durazno.cs",
               "DocumentMoniker": "C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\Entidades\\Durazno.cs",
               "RelativeDocumentMoniker": "Entidades\\Durazno.cs",
@@ -218,31 +219,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 7,
               "Title": "Banana.cs",
               "DocumentMoniker": "C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\Entidades\\Banana.cs",
               "RelativeDocumentMoniker": "Entidades\\Banana.cs",
               "ToolTip": "C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\Entidades\\Banana.cs",
               "RelativeToolTip": "Entidades\\Banana.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAgwEEAAAAIAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwEEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T23:31:17.03Z"
+              "WhenOpened": "2024-06-24T23:31:17.03Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "Manzana.cs",
               "DocumentMoniker": "C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\Entidades\\Manzana.cs",
               "RelativeDocumentMoniker": "Entidades\\Manzana.cs",
               "ToolTip": "C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\Entidades\\Manzana.cs",
               "RelativeToolTip": "Entidades\\Manzana.cs",
-              "ViewState": "AQIAAFgAAAAAAAAAAAA2wGEAAAAOAAAA",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAUwGEAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T22:05:42.809Z"
+              "WhenOpened": "2024-06-24T22:05:42.809Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "ISerializar.cs",
               "DocumentMoniker": "C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\Entidades\\ISerializar.cs",
               "RelativeDocumentMoniker": "Entidades\\ISerializar.cs",
@@ -254,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "IDeserializar.cs",
               "DocumentMoniker": "C:\\Users\\Fernando\\Documents\\UTN 2024\\Progra\\EJERCICIO INTEGRADOR\\Mi solucion-FaltaTestUnitarios\\ModeloSegundoParcialLabII\\Entidades\\IDeserializar.cs",
               "RelativeDocumentMoniker": "Entidades\\IDeserializar.cs",
@@ -262,8 +265,7 @@
               "RelativeToolTip": "Entidades\\IDeserializar.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T22:02:40.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T22:02:40.673Z"
             }
           ]
         }

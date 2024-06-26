@@ -10,7 +10,7 @@ using System.Xml.Serialization;
 
 namespace Entidades
 {
-    public delegate void PrecioExtendido(Object obj);
+    public delegate void PrecioExtendido(object obj);
     public class Cajon<T> : ISerializar
     {
         protected int _capacidad;
@@ -40,13 +40,12 @@ namespace Entidades
         {
             get
             {
-                double precioTotal = 0;
-                precioTotal = Elementos.Count * _precioUnitario;
+                double precioTotal = Elementos.Count * _precioUnitario;
                 if (precioTotal > 55)
                 {
                     if (!(eventoPrecio is null))
                     {
-                        eventoPrecio.Invoke(this);
+                        eventoPrecio.Invoke(precioTotal);
                     }
                 }
                 return precioTotal;
